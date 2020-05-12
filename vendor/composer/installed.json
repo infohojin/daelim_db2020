@@ -1,1 +1,50 @@
-[]
+[
+    {
+        "name": "jiny/mysql",
+        "version": "0.2",
+        "version_normalized": "0.2.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/jinyphp/mysql.git",
+            "reference": "d74ceb77104ea3acdd3caba9e9ed081254352a84"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/jinyphp/mysql/zipball/d74ceb77104ea3acdd3caba9e9ed081254352a84",
+            "reference": "d74ceb77104ea3acdd3caba9e9ed081254352a84",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">= 7.0"
+        },
+        "time": "2020-04-20T16:32:09+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "Jiny\\Mysql\\": "src/"
+            },
+            "files": [
+                "src/Helpers/Helper.php"
+            ]
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "hojinlee",
+                "email": "infohojin@gmail.com",
+                "homepage": "https://mysql.jiny.dev"
+            }
+        ],
+        "description": "jinyPHP Mysql Database",
+        "homepage": "https://mysql.jiny.dev",
+        "keywords": [
+            "framwork",
+            "jinyphp",
+            "mysql"
+        ]
+    }
+]

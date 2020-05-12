@@ -6,5 +6,6 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname($vendorDir);
 
 return array(
+    'a6e27c98c00945ead28d695037bfc102' => $vendorDir . '/jiny/mysql/src/Helpers/Helper.php',
     '9f2ca8d9a238e4c80d25576e2bfa4cb3' => $baseDir . '/Modules/helper.php',
 );

@@ -1,0 +1,65 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "3d4bd9ea2d6bd573f35b2a650d6bed61",
+    "packages": [
+        {
+            "name": "jiny/mysql",
+            "version": "0.2",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/jinyphp/mysql.git",
+                "reference": "d74ceb77104ea3acdd3caba9e9ed081254352a84"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/jinyphp/mysql/zipball/d74ceb77104ea3acdd3caba9e9ed081254352a84",
+                "reference": "d74ceb77104ea3acdd3caba9e9ed081254352a84",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">= 7.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Jiny\\Mysql\\": "src/"
+                },
+                "files": [
+                    "src/Helpers/Helper.php"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "hojinlee",
+                    "email": "infohojin@gmail.com",
+                    "homepage": "https://mysql.jiny.dev"
+                }
+            ],
+            "description": "jinyPHP Mysql Database",
+            "homepage": "https://mysql.jiny.dev",
+            "keywords": [
+                "framwork",
+                "jinyphp",
+                "mysql"
+            ],
+            "time": "2020-04-20T16:32:09+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "1.1.0"
+}
