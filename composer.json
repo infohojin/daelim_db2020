@@ -9,12 +9,9 @@
             "Modules\\": "Modules/"
         },
         "files": [
-<<<<<<< HEAD
+
             "Modules/helper.php"
         ]
-=======
-			"Modules/helper.php"
-		]
->>>>>>> db2020/master
+
     }
 }
