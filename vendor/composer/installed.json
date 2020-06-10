@@ -1,23 +1,23 @@
 [
     {
         "name": "jiny/mysql",
-        "version": "0.2",
-        "version_normalized": "0.2.0.0",
+        "version": "0.4.1",
+        "version_normalized": "0.4.1.0",
         "source": {
             "type": "git",
             "url": "https://github.com/jinyphp/mysql.git",
-            "reference": "d74ceb77104ea3acdd3caba9e9ed081254352a84"
+            "reference": "2908e8b84e720801f5431e973d1562e91ca69ffd"
         },
         "dist": {
             "type": "zip",
-            "url": "https://api.github.com/repos/jinyphp/mysql/zipball/d74ceb77104ea3acdd3caba9e9ed081254352a84",
-            "reference": "d74ceb77104ea3acdd3caba9e9ed081254352a84",
+            "url": "https://api.github.com/repos/jinyphp/mysql/zipball/2908e8b84e720801f5431e973d1562e91ca69ffd",
+            "reference": "2908e8b84e720801f5431e973d1562e91ca69ffd",
             "shasum": ""
         },
         "require": {
             "php": ">= 7.0"
         },
-        "time": "2020-04-20T16:32:09+00:00",
+        "time": "2020-06-02T03:44:40+00:00",
         "type": "library",
         "installation-source": "dist",
         "autoload": {
@@ -40,7 +40,7 @@
             }
         ],
         "description": "jinyPHP Mysql Database",
-        "homepage": "https://mysql.jiny.dev",
+        "homepage": "https://mysql.jiny.dev/builder",
         "keywords": [
             "framwork",
             "jinyphp",
